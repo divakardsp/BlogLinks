@@ -10,3 +10,5 @@
 
 6. How a Browser Works: A Beginner-Friendly Guide to Browser Internals: https://browser-url-to-webpage.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
 
+Understanding HTML Tags and Elements: https://htmlhypertext-markup-language-tags.hashnode.dev/understanding-html-tags-and-elements
+
