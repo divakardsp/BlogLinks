@@ -1,0 +1,12 @@
+1. Git for Beginners: Basics and Essential Commands:https://git-for-beginners-important-commands.hashnode.dev/git-for-beginners-basic-and-essential-commands
+
+2. Why Version Control Exists: The Pendrive Problem: https://why-version-control-pendrive-problem.hashnode.dev/why-version-control-exists-the-pendrive-problem
+
+3. Understanding Network Devices: https://networking-devices-routersmodemswitch.hashnode.dev/understanding-network-devices
+
+4.DNS Record Types Explained: https://dns-records-types.hashnode.dev/dns-records
+
+5.TCP Working: 3-Way Handshake & Reliable Communication: https://tcp-the-transmission-control-protocol.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication
+
+6. How a Browser Works: A Beginner-Friendly Guide to Browser Internals: https://browser-url-to-webpage.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
+
